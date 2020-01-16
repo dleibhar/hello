@@ -3,6 +3,7 @@
 #include <stdio.h>
 
 int main (void) {
-  printf("Darren Leibhart"\n");
+  printf("Darren Leibhart");
+  printf("Electrical Engineering/ math");
   return 0;
 }
